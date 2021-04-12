@@ -1,0 +1,13 @@
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csprojAssemblyReference.cache
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfoInputs.cache
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfo.cs
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.exe
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.deps.json
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.json
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.dev.json
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.dll
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.pdb
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.dll
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.pdb
+C:\Users\tiagu\source\repos\DIO.series\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.genruntimeconfig.cache
